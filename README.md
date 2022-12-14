@@ -10,7 +10,5 @@ Welcome to my profile! I'm Chien-Pao, also known as Magestick, a beginner progra
 * 💬 Bilingual (Russian/English)
   * While I read and write English perfectly, I'm too shy to speak it.
   * I speak Russian as my native language, only in real.
-* 🖥️ I'm using Windows 10 since 2020
-  * Either too lazy or very restricted to buy a new computer
 
 I forgor what to write next... Maybe later.
