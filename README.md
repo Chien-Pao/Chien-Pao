@@ -1,5 +1,5 @@
-# ✨ Chien-Pao ✨
-Welcome to my profile! I'm Chien-Pao, also known as Magestick, a beginner programmer or just, a tester/graphic designer.
+# ✨ Magestick ✨
+Welcome to my profile! I'm Magestick, a beginner programmer or just, a tester/graphic designer.
 
 * 💻 I'm looking for anyone who can help with the coding.
 * 👀 I'm mostly interested in coding, robotics, and making game mods.
